@@ -33,7 +33,6 @@ export const LandingPage: React.FC = () => {
         {/* Pill Badge */}
         <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-blue-500/10 border border-blue-500/20 text-xs font-semibold text-blue-400 mb-6 backdrop-blur-sm animate-pulse-subtle">
           <Sparkles className="w-3.5 h-3.5" />
-          <span>Microsoft-Sponsored Hackathon 2026 Submission</span>
           <span className="w-1 h-1 rounded-full bg-blue-400" />
           <span className="text-zinc-300">Ready Out-Of-The-Box</span>
         </div>
