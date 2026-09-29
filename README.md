@@ -1,8 +1,6 @@
 # Nexura AI 🚀
 ### Autonomous Complaint Intelligence & Support Engine
 
-> **Microsoft-Sponsored Hackathon Submission 2026** — Rebuilding enterprise customer support with zero-latency priority triage, autonomous ticketing, and smart human escalation.
-
 [![Live Demo](https://img.shields.io/badge/Live-Vercel%20Deployment-blue?style=for-the-badge&logo=vercel)](https://frontend-six-rho-21.vercel.app)
 [![Tech Stack](https://img.shields.io/badge/Stack-React%20%7C%20TypeScript%20%7C%20Node.js%20%7C%20Gemini-orange?style=for-the-badge)]()
 
